@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @cypher7systems
+- 👀 I’m interested in developing enterprise applications using Domain Driven Design and DevOps priniciples
+- 🌱 I’m currently learning howto develop rock solid & scalable APIs, Machine Learning and DevSecOps
+- 💞️ I’m looking to collaborate on Gluon - a DevOps service to manage CI/CD workflows and release management
+- 📫 Contact: 
